@@ -15,7 +15,7 @@
     </js-module>
 
     <platform name="android">
-        <dependency id="cordova-plugin-firebasex" version="^7.0.1" />
+        <dependency id="cordova-plugin-firebasex" version="^13.0.1" />
 
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="MLKitTranslate">
